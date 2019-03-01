@@ -1,6 +1,6 @@
 # JavaScript寺子屋の記録
 JavaScriptおじさんの出す課題を解いた記録をするリポジトリです:japanese_castle:  
-(https://uncle-javascript.com/article/)[https://uncle-javascript.com/article/]
+[https://uncle-javascript.com/article/](https://uncle-javascript.com/article/)
 
 ## Season1
 #### JavaScript 寺子屋 1 / アローファンクションの使い方
