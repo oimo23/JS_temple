@@ -61,9 +61,6 @@ https://codesandbox.io/s/31zlvvz2p6
 #### JavaScript 寺子屋 21 / object の中に関数をしまう。
 https://codesandbox.io/s/j50qyll29
 
-#### JavaScript 寺子屋 22 / "filter" を使って JavaScript の配列の内容を絞り込む
-https://codesandbox.io/s/r44616rwmm
-
 #### JavaScript 寺子屋 23 / 詳細説明 "filter" を使って JavaScript の配列の内容を絞り込む
 https://codesandbox.io/s/81j1vkv3y8
 
