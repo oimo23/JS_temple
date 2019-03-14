@@ -70,6 +70,7 @@ https://codesandbox.io/s/8z4r5yj249
 #### JavaScript 寺子屋 25 / map
 https://codesandbox.io/s/4qlj1myv0x
 
+### Season3
 #### JavaScript 寺子屋 26 / React に向けて HTML, CSS の知識をつけよう
 https://codesandbox.io/s/q39x64j3w
 
