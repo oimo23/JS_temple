@@ -1,4 +1,12 @@
-# JavaScript寺子屋の記録
+<h1 align="center">JavaScript寺子屋の記録</h1>
+<p align="center">
+    <img src="https://img.shields.io/badge/Now-Season3-brightgreen.svg?style=flat-square" alt="last updated">
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18276888/55371738-39575680-553a-11e9-91dc-6bd1c6b582f4.png" width="250">
+</p>
+
+## 概要
 JavaScriptおじさんの出す課題を解いた記録をするリポジトリです:japanese_castle:  
 [https://uncle-javascript.com/article/](https://uncle-javascript.com/article/)
 
